@@ -30,13 +30,17 @@
     <td align="center">
       <h3>LeetCode</h3>
       <a href="https://leetcode.com/Kalam2002/">
-        <img src="https://leetcard.jacoblin.cool/Kalam2002?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" width="400"/>
+        <img src="https://leetcard.jacoblin.cool/Kalam2002?theme=dark&font=baloo" alt="LeetCode Stats" width="1000"/>
       </a>
     </td>
-    <td align="center">
+    
+  </tr>
+</table>
+<table>
+<td align="center">
       <h3>GeeksforGeeks</h3>
       <a href="https://www.geeksforgeeks.org/user/kalam2_0_0_2/">
-        <img src="https://raw.githubusercontent.com/Kalam2002/Kalam2002/main/assets/gfg-stats.png" alt="GeeksforGeeks Stats" width="600" height="300"/>
+        <img src="https://raw.githubusercontent.com/Kalam2002/Kalam2002/main/assets/gfg-stats.png" alt="GeeksforGeeks Stats" width="1000" />
       </a><br>
       <sub>
         🟢 <b>Streak:</b> 139 days &nbsp; |
@@ -44,10 +48,7 @@
         ⭐ <b>Rating:</b> 1735
       </sub>
     </td>
-  </tr>
 </table>
-
-
 
 ## 🛠 Tech Stack
 
