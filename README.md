@@ -22,11 +22,10 @@
 - 🎯 Passionate about AI, Cybersecurity, and Scalable System Design
 
 ---
-
----
 ### 🧠 LeetCode
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Kalam2002?theme=dark&font=baloo&extension=activity)](https://leetcode.com/Kalam2002)
-
+<a href="https://leetcode.com/Kalam2002/" rel="nofollow">
+  <img src="https://leetcard.jacoblin.cool/Kalam2002" alt="LeetCode Stats" style="max-width: 100%; height: auto;">
+</a>
 ---
 ## 🛠 Tech Stack
 
