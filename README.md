@@ -22,31 +22,31 @@
 - 🎯 Passionate about AI, Cybersecurity, and Scalable System Design
 
 ---
-### 🧠 LeetCode
-<a href="https://leetcode.com/Kalam2002/" rel="nofollow">
-  <img src="https://leetcard.jacoblin.cool/Kalam2002" alt="LeetCode Stats" style="max-width: 100%; height: auto;">
-</a>
----
-
 ## 🚀 Competitive Programming Stats
+
 
 <table>
   <tr>
     <td align="center">
-      <b>LeetCode</b><br><br>
+      <h3>LeetCode</h3>
       <a href="https://leetcode.com/Kalam2002/">
-        <img src="https://leetcard.jacoblin.cool/Kalam2002?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
+        <img src="https://leetcard.jacoblin.cool/Kalam2002?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" width="400"/>
       </a>
     </td>
     <td align="center">
-      <b>GeeksforGeeks</b><br><br>
+      <h3>GeeksforGeeks</h3>
       <a href="https://www.geeksforgeeks.org/user/kalam2_0_0_2/">
-        <img src="https://raw.githubusercontent.com/Kalam2002/Kalam2002/main/assets/gfg-stats.png" alt="GeeksforGeeks Stats" width="350"/>
+        <img src="https://raw.githubusercontent.com/Kalam2002/Kalam2002/main/assets/gfg-stats.png" alt="GeeksforGeeks Stats" width="600" height="300"/>
       </a><br>
-      <sub>🟢 <b>Streak:</b> 139 days | 🧠 <b>Problems Solved:</b> 146 | ⭐ <b>Rating:</b> 1735</sub>
+      <sub>
+        🟢 <b>Streak:</b> 139 days &nbsp; |
+        💡 <b>Problems Solved:</b> 146 &nbsp; |
+        ⭐ <b>Rating:</b> 1735
+      </sub>
     </td>
   </tr>
 </table>
+
 
 
 ## 🛠 Tech Stack
