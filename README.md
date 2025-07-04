@@ -28,6 +28,26 @@
 </a>
 ---
 
+## 🚀 Competitive Programming Stats
+
+<table>
+  <tr>
+    <td align="center">
+      <b>LeetCode</b><br><br>
+      <a href="https://leetcode.com/Kalam2002/">
+        <img src="https://leetcard.jacoblin.cool/Kalam2002?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
+      </a>
+    </td>
+    <td align="center">
+      <b>GeeksforGeeks</b><br><br>
+      <a href="https://www.geeksforgeeks.org/user/kalam2_0_0_2/">
+        <img src="https://raw.githubusercontent.com/Kalam2002/Kalam2002/main/assets/gfg-stats.png" alt="GeeksforGeeks Stats" width="350"/>
+      </a><br>
+      <sub>🟢 <b>Streak:</b> 139 days | 🧠 <b>Problems Solved:</b> 146 | ⭐ <b>Rating:</b> 1735</sub>
+    </td>
+  </tr>
+</table>
+
 
 ## 🛠 Tech Stack
 
