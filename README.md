@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/kalam2002/"><img src="https://img.shields.io/badge/LinkedIn-kalam2002-blue?style=flat&logo=linkedin"></a>
   <a href="mailto:abdulkalamtmsl@gmail.com"><img src="https://img.shields.io/badge/Gmail-abdulkalamtmsl@gmail.com-red?style=flat&logo=gmail"></a>
   <a href="https://leetcode.com/Kalam2002/"><img src="https://img.shields.io/badge/LeetCode-Kalam2002-orange?style=flat&logo=leetcode"></a>
-  <a href="https://auth.geeksforgeeks.org/user/Kalam2002/practice/"><img src="https://img.shields.io/badge/GeeksforGeeks-Kalam2002-brightgreen?style=flat&logo=geeksforgeeks"></a>
+  <a href="https://auth.geeksforgeeks.org/user/Kalam2_0_0_2/practice/"><img src="https://img.shields.io/badge/GeeksforGeeks-Kalam2002-brightgreen?style=flat&logo=geeksforgeeks"></a>
 </p>
 
 ---
